@@ -1,2 +1,2 @@
-*.log
+target folder/*.class
 bin/
